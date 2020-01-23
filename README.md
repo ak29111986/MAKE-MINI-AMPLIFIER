@@ -1,2 +1,2 @@
-# MAKE-MINI-AMPLIFIER
+# MINI-AMPLIFIER
 Low Voltage Audio Power Amplifier 
